@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "492398944724",
+    "firebase_url": "https://cloudweb-cf147.firebaseio.com",
+    "project_id": "cloudweb",
+    "storage_bucket": "cloudweb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:492398944724:android:d29261b80c748e80",
+        "android_client_info": {
+          "package_name": "com.fabricai.market"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "492398944724-esjrvjho3co4dsdagdmd095lf5faceaf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5x1zsKVeCMDcsmcvVlo4qeChN850IhyA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
